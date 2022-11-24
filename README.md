@@ -23,7 +23,7 @@
 ### :man_technologist: About Me :
 I am a Jr. Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
 - :school: I'm at 3. grade of Information Systems Engineering  at Kocaeli University in Turkey
-- :seedling: I'm currently learning React-Native <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title="CSS3" alt="CSS" width="20" height="20"/>&nbsp;
+- :seedling: I'm currently learning <b>Express.js & Mongodb</b>
 - :zap: I am eager to make a change through coding.
 ---
 
