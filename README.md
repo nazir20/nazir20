@@ -4,14 +4,11 @@
     <h3>Hi, there is Mohammad Nazir Sharifi</h3>
   </div>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/nazir-sharifi-783ba0197/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/nazir-sharifi-783ba0197/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100037928569826">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
-    <a href="https://www.instagram.com/mn_sharifi20/">
-      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <a href="https://www.instagram.com/mn_sharifi20/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
   </div>
 </div>
