@@ -17,10 +17,24 @@
 </div>
 <br>
 <br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,react,git,postman,gitlab,github,arduino,nodejs,expressjs,php,symfony,python,mysql,mongodb,wordpress" />
-  </a>
-</p>
+<h2 style="color:#538392;">Programming Languages:</h2>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,js,python,php" />
+</a>
+<h2 style="color:#538392;">Frontend:</h4>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,react" />
+</a>
+<h2 style="color:#538392;">Backend:</h4>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,symfony,flask" />
+</a>
+<h2 style="color:#538392;">Databases:</h4>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</a>
+<h2 style="color:#538392;">Tools:</h4>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postman,gitlab,github,arduino,wordpress" />
+</a>
 
