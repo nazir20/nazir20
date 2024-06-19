@@ -16,7 +16,7 @@
     <a href="https://www.linkedin.com/in/nazir-sharifi-783ba0197/" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
-    <a href="https://www.instagram.com/mn_sharifi20/" target="_blank">
+    <a href="https://www.instagram.com/nazirsharifi_/" target="_blank">
       <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
 </div>
