@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=nazir20&icon=2&color=6)](https://visitcount.itsvg.in)
 <div id="header" align="center">
   <img src="https://github.com/nazir20/nazir20/assets/66849567/877099be-0587-4e45-b575-fbcf59e16702"/>
 </div>
