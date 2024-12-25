@@ -12,6 +12,13 @@
 </div>
 <br>
 
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nazir20\&repo=Laravel-E-Commerce\&title_color=fff\&icon_color=CD5C08\&text_color=9f9f9f\&bg_color=31363F)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nazir20\&repo=Sorting-Algorithms-Visualization-Python\&title_color=fff\&icon_color=CD5C08\&text_color=9f9f9f\&bg_color=31363F)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nazir20\&repo=Twitter-Topic-Modeling-with-LSA-LDA-BERTopic-Top2Vec-and-NMF\&title_color=fff\&icon_color=CD5C08\&text_color=9f9f9f\&bg_color=31363F)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nazir20\&repo=Vision-Transformer-Models-for-Dogs-Breed-Classification\&title_color=fff\&icon_color=CD5C08\&text_color=9f9f9f\&bg_color=31363F)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nazir20\&repo=Puzzle-Game\&title_color=fff\&icon_color=CD5C08\&text_color=9f9f9f\&bg_color=31363F)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=nazir20\&repo=ShareIdea\&title_color=fff\&icon_color=CD5C08\&text_color=9f9f9f\&bg_color=31363F)
+
 **Contact Me**
 <div id="badges">
     <a href="https://www.linkedin.com/in/nazir-sharifi-783ba0197/" target="_blank">
