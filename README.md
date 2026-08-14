@@ -1,8 +1,8 @@
-<p>Hi there! I'm <b>Nazir Sharifi</b>, a Software Engineer with a strong interest in <b><i>Web Development</i></b>, <b><i>Machine Learning</i></b>, and <b><i>Deep Learning</i></b> based in <b>Germany</b>. I enjoy creating dynamic and user-friendly web applications and leveraging the power of AI to solve complex problems.</p>
+<p>Hi there! I'm <b>Nazir Sharifi</b>, a Software Engineer with a strong interest in <b><i>Web Development</i></b>, <b><i>Machine Learning</i></b>, and <b><i>Deep Learning</i></b> based in <b>Aachen, Germany</b>. I enjoy creating dynamic and user-friendly web applications and leveraging the power of AI to solve complex problems.</p>
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,python,php,dotnet,react,nodejs,mysql,mongodb,docker,arduino,git" />
+    <img src="https://skillicons.dev/icons?i=java,python,php,spring,nodejs,react,mysql,postgres,mongodb,git,docker" />
 </a>
 </div>
 
